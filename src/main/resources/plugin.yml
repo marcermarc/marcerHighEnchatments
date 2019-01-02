@@ -1,0 +1,8 @@
+name: marcerHighEnchants
+version: 1.0.0
+author: marcermarc
+main: de.marcermarc.highenchantments.Main
+api-version: 1.13
+commands:
+  marcerHighEnchants:
+    description: Zum Einstellen des Plugins
